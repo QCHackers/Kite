@@ -1,5 +1,5 @@
 Flask
-Flask-Cors==3.0.9
+Flask-Cors==5.0.0
 gunicorn
 numpy
 requests
